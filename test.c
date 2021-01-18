@@ -3,4 +3,5 @@
 void main()
 {
 	printf("Enter hellow world\n");
+	printf("\n");
 }
